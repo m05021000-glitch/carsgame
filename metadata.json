@@ -1,0 +1,6 @@
+{
+  "name": "午後神速物流 - 午休提神衝刺",
+  "description": "專為午休後提神醒腦設計的點擊競速遊戲！快速連擊讓物流車突破極速狂飆，收集雙倍濃縮咖啡擊退瞌睡蟲，精神滿點衝向終點！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
